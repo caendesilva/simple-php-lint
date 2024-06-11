@@ -1,6 +1,8 @@
 # A simple file linter written in PHP 
 
-## CLI & GitHub Actions compatible
+## About
+
+This CLI & GitHub Actions compatible PHP script runs basic linting and formatting on any kind of text-based file.
 
 ## Usage
 
