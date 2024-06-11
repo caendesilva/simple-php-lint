@@ -1,11 +1,3 @@
-# A simple file linter written in PHP 
+# A simple file linter starter script written in PHP 
 
-## About
-
-This CLI & GitHub Actions compatible PHP script runs basic linting and formatting on any kind of text-based file.
-
-## Usage
-
-```bash
-php lint.php
-```
+This small library provides a starter point for creating simple file linters/fixers in PHP. To use this, just copy the `lint.php` file and tweak it to your needs!
